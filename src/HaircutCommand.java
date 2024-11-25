@@ -1,4 +1,4 @@
-// HaircutCommand.java
+
 public class HaircutCommand implements Command {
     private SalonManager salonManager;
     private String clientName;

@@ -1,4 +1,4 @@
-// ColoringCommand.java
+
 public class ColoringCommand implements Command {
     private SalonManager salonManager;
     private String clientName;

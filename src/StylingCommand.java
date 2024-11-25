@@ -1,4 +1,4 @@
-// StylingCommand.java
+
 public class StylingCommand implements Command {
     private SalonManager salonManager;
     private String clientName;
